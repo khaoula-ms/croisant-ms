@@ -12,3 +12,8 @@ a:visited{
     color: rgb(2, 77, 27);
  
 }
+img{
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+}
