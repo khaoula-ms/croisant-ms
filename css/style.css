@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(250, 235, 216);
+    text-align: center;
+}
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(2, 77, 27);
+    margin-top: 10px;
+}
+a:visited{
+    color: rgb(2, 77, 27);
+ 
+}
